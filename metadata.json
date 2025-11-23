@@ -1,0 +1,7 @@
+{
+  "name": "MindGuard",
+  "description": "An AI-powered mental health companion that analyzes emotions via text and voice to provide personalized support, stress tracking, and emergency resources.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
